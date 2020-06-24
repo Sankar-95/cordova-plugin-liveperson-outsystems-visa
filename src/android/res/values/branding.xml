@@ -28,7 +28,7 @@
 
     <!--consumer bubble-->
     <dimen name="consumer_bubble_stroke_width">0dp</dimen>
-    <color name="consumer_bubble_stroke_color">@color/pearl_gray</color>-->
+    <color name="consumer_bubble_stroke_color">@color/Shuttle_Grey</color>-->
     <color name="consumer_bubble_message_text_color">@color/white</color>
     <color name="consumer_bubble_message_link_text_color">@color/white</color>
     <color name="consumer_bubble_timestamp_text_color">@color/dim_gray</color>
@@ -51,8 +51,8 @@
 
 
     <!-- unread messages bubble-->
-    <color name="unread_indicator_bubble_text_color">@color/blue_sapphire</color>
-    <color name="unread_indicator_bubble_background_color">@color/aqua_haze</color>
+    <color name="unread_indicator_bubble_text_color">@color/white</color>
+    <color name="unread_indicator_bubble_background_color">@color/Shuttle_Grey</color>
     <bool name="unread_indicator_bubble_enable">true</bool>
 
 
@@ -121,7 +121,7 @@
     <bool name="show_timestamp_in_ttr_notification">true</bool>
 
     <!--Edit Text-->
-    <color name="edit_text_underline_color">@color/blue_sapphire</color>
+    <color name="edit_text_underline_color">@color/Shuttle_Grey</color>
     <color name="lp_enter_msg_text">@color/black</color>
     <color name="lp_enter_msg_hint">@color/aqua_haze</color>
     <color name="lp_send_button_text_enable">@color/Golden_Brown</color>
@@ -143,7 +143,7 @@
 
     <color name="attachment_menu_item_background_color">@color/white</color>
 
-    <color name="lp_attachment_menu_item_icon_color">@color/blue_sapphire</color>
+    <color name="lp_attachment_menu_item_icon_color">@color/Shuttle_Grey</color>
     <color name="lp_attachment_menu_item_text_color">@color/color_separator</color>
     <color name="lp_attachment_menu_background_color">@color/aqua_haze</color>
 
@@ -155,7 +155,7 @@
     <!--Conversation Activity Style-->
     <color name="lp_colorPrimary">@color/white</color>
    <!--  <color name="lp_colorPrimaryDark">@color/navy_blue</color> -->
-    <color name="lp_textColorSecondary">@color/blue_sapphire</color>
+    <color name="lp_textColorSecondary">@color/Shuttle_Grey</color>
 
 
     <!--Conversation Separator-->
@@ -206,12 +206,12 @@
     <color name="agent_bubble_pci_form_invitation_background_color">@android:color/white</color>
     <color name="agent_bubble_pci_form_invitation_background_btn_color">@android:color/white</color>
     <color name="agent_bubble_pci_form_invitation_stroke_color">@color/aqua_haze</color>
-    <color name="agent_bubble_pci_form_invitation_button_text_color">@color/blue_sapphire
+    <color name="agent_bubble_pci_form_invitation_button_text_color">@color/Shuttle_Grey
     </color>
     <color name="agent_bubble_pci_form_invitation_description_text_color">@color/pci_description
     </color>
     <color name="agent_bubble_pci_form_invitation_title_text_color">@color/black</color>
-    <color name="agent_bubble_pci_form_invitation_icon_tint_color">@color/blue_sapphire</color>
+    <color name="agent_bubble_pci_form_invitation_icon_tint_color">@color/Shuttle_Grey</color>
 
     <!--PCI-->
     <bool name="pci_form_hide_logo">false</bool>
